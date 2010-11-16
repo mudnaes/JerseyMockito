@@ -14,7 +14,7 @@ import com.sun.grizzly.http.SelectorThread;
 import com.sun.grizzly.http.servlet.ServletAdapter;
 import com.sun.jersey.api.container.grizzly.GrizzlyServerFactory;
 import com.sun.jersey.spi.spring.container.servlet.SpringServlet;
-import com.udnaes.jerseymockito.test.JerseyMockitoRunnerTest;
+
 /**
  * The purpose of this class is to be able to use Mockito to mock
  * server side classes. This can't be done with Jersey Test Framework
